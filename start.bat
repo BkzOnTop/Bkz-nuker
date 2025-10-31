@@ -1,5 +1,6 @@
 @echo off
-echo Starting FSOCIETY NUKER
-python FSOCIETY.py
+echo Starting BKZ NUKER
+python bkz-nuker.py
+
 
 pause
