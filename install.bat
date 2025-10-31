@@ -1,9 +1,10 @@
 @echo off
-echo Installing FSOCIETY MODULES
+echo Installing BKZ MODULES
 pip install discord.py
 pip install aiohttp
 pip install requests
 pip install colorama
 pip install pystyle
 echo All modules installed! Ready for destruction.
+
 pause
